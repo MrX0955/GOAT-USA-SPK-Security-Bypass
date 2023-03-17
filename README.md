@@ -1,6 +1,6 @@
-# GOAT-USA-SPK-Security-Bypass
+# What's This?
 
-***Vouch me!***                                                                                                                                                         **This is Goat.com xx-spk-mit Header Security bypass.**
+**This is Goat.com xx-spk-mit Header Security bypass.**                                                                                                                                    
 
 # About Me
 
